@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Vaibhav Shinde</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
-<!--
-**vaibhavSkillminds/vaibhavSkillminds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hey there,</p> 
 
-Here are some ideas to get you started:
+<p>
+  I'm Vaibhav, a full-stack Developer based in India, who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm currently learning NextJS and looking to collaborate on  Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about <b> Anything Web Devlopment Related. </b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavwxyz&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavwxyz" /> </p>
+
+- 🌱 I’m currently learning NextJS
+- 👯 I’m looking to collaborate on Open-Source
+- 💬 Ask me about Anything Web Devlopment Related
+- 😄 Pronouns: He/Him
+- 📫 How to reach me **vaibhavshinde.dev@gmail.com**
+- 📝 Sometimes i write articles on [https://vaibhavwxyz.hashnode.dev/](https://vaibhavwxyz.hashnode.dev/)
+
+<details align="left">
+  <summary align="left">:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Vaibhav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavwxyz&show_icons=true&hide_border=true" />
+
+</details>
+
+<details align="left">
+  <summary align="left">:zap: Streak Stats</summary>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwxyz&" alt="vaibhavwxyz" />
+
+</details>
+
+<!-- <details>
+  <summary align="left">:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwxyz" />
+
+</details> -->
+
+#
+
+### Languages and Tools:
+<p>
+<img alt="html5" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
+<img alt="css3" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
+<img alt="tailwind" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
+<img alt="git" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png"/>
+<img alt="JavaScript" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
+<img alt="bootstrap" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"/>
+<img alt="mongoDB" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"/>
+<img alt="angular" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png"/>
+<img alt="sql" width="22px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
+<img alt="react" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png"/>
+<img alt="redux" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/redux-3521674-2945118.png"/>
+<img alt="vuejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/free-express-9-1175170.png?f=avif&w=512"/>
+<img alt="nodejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png"/>
+</p>
+
+#
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="linkdin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](https://www.linkedin.com/in/vaibhavwxyz/)
+[<img alt="twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />](https://twitter.com/vaibhawxyz)
+
+
