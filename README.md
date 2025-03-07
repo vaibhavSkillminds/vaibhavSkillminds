@@ -4,7 +4,7 @@
 <p>Hey there,</p> 
 
 <p>
-  I'm Vaibhav, a full-stack Developer based in India, who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm currently learning Go lang and looking to collaborate on  Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about <b> Anything Web Devlopment Related. </b>
+  I'm Vaibhav, a full-stack developer based in India, who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm currently learning Go lang and looking to collaborate on  Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about <b> Anything Web Devlopment Related. </b>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavwxyz&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavwxyz" /> </p>
